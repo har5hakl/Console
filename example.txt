@@ -1,3 +1,0 @@
-select * from e;
-select * from text
-select * from books
